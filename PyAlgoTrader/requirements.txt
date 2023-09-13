@@ -1,0 +1,14 @@
+datetime
+yfinance
+tkinter
+talib
+ta-lib# use this only if talib not working, TA-lib might also work if this one aswell
+pandas
+matplotlib
+numpy
+sklearn
+keras
+ssl
+io
+bs4
+tensorflow

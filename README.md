@@ -2,7 +2,7 @@
 A python-based stock trading interface that allows financial news scraping, stock indicator graphing, stock ticker tracking, and stock future prediction using machine learning.
 ## talib install
 ### macos
-simple just use homebrew(brew install talib)
+Use homebrew(brew install talib) - pip will NOT WORK
 if that doesnt work use ta-lib
 ### windows
 can use [https://www.lfd.uci.edu/~gohlke/pythonlibs/](https://www.lfd.uci.edu/~gohlke/pythonlibs/) to download

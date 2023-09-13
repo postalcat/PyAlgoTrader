@@ -1,8 +1,8 @@
 # PyAlgoTrader
 A python-based stock trading interface that allows financial news scraping, stock indicator graphing, stock ticker tracking, and stock future prediction using machine learning.
-## talib/ta-lib(try both) install
+## TA-lib install
 ### macos
-Use homebrew(brew install talib/ta-lib) - pip will NOT WORK
+Use homebrew(brew install talib/ta-lib) - pip will NOT WORK ** try both ta-lib and talib
 ### windows
 can use [https://www.lfd.uci.edu/~gohlke/pythonlibs/](https://www.lfd.uci.edu/~gohlke/pythonlibs/) to download
 then just move to python folder
